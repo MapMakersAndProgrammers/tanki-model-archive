@@ -1,0 +1,37 @@
+[ {
+  "name" : "lightmap-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "d148cf3a78a1eb3af6bb5555d2105a0c"
+}, {
+  "name" : "lightmap-astc.ktx",
+  "size" : 349704,
+  "md5" : "a8c0ae2d492156d93941352c07bc4114"
+}, {
+  "name" : "lightmap-etc1.ktx",
+  "size" : 699200,
+  "md5" : "53bb8a995ed5efa6a0aac652b4dd4208"
+}, {
+  "name" : "lightmap.webp",
+  "size" : 111916,
+  "md5" : "71e8db90696157fc9d9a0dacdd0a7721"
+}, {
+  "name" : "object.a3d",
+  "size" : 313388,
+  "md5" : "2243ce0eb12595d31a49f99f8c97ddeb"
+}, {
+  "name" : "wheels-alpha-etc1.ktx",
+  "size" : 174908,
+  "md5" : "9040fd1109dc100a4df274fcabf13a69"
+}, {
+  "name" : "wheels-astc.ktx",
+  "size" : 87556,
+  "md5" : "bb1ee06eace68f5210ba28439665168f"
+}, {
+  "name" : "wheels-etc1.ktx",
+  "size" : 174908,
+  "md5" : "f73071849dcd5ec3d4d910e4ded1ff88"
+}, {
+  "name" : "wheels.webp",
+  "size" : 41040,
+  "md5" : "4893787897eac73a072b88d141f07bdb"
+} ]

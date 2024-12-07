@@ -1,0 +1,33 @@
+[ {
+  "name" : "lightmap-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "671628e4f2f49b55f4a383c140f59928"
+}, {
+  "name" : "lightmap-astc.ktx",
+  "size" : 349704,
+  "md5" : "df40e65d4ea73fbfa43dd209607952c5"
+}, {
+  "name" : "lightmap-etc1.ktx",
+  "size" : 699200,
+  "md5" : "ac3a01bfb0d76a7c7ac3d16f73c049ad"
+}, {
+  "name" : "lightmap.webp",
+  "size" : 208334,
+  "md5" : "ae28dac9999554ffa0c0c846a34330e7"
+}, {
+  "name" : "object.a3d",
+  "size" : 240088,
+  "md5" : "f4b3fde6db8038cc7df2f9dc80d9b41f"
+}, {
+  "name" : "tracks-astc.ktx",
+  "size" : 22016,
+  "md5" : "bad81e3c8d31320442303e6fa2e32145"
+}, {
+  "name" : "tracks-etc1.ktx",
+  "size" : 43832,
+  "md5" : "cb081cbf7cf7a928ccad26b1de6326f0"
+}, {
+  "name" : "tracks.webp",
+  "size" : 19454,
+  "md5" : "644c149ad74c842d72993a2a00867d18"
+} ]
