@@ -1,0 +1,45 @@
+[ {
+  "name" : "lightmap-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "150ef078eefa8de0b173d3403bd34653"
+}, {
+  "name" : "lightmap-astc.ktx",
+  "size" : 349704,
+  "md5" : "eb759214e51c6fcca957d62f353a93c7"
+}, {
+  "name" : "lightmap-blue-astc.ktx",
+  "size" : 349704,
+  "md5" : "4f2024d2843abc2e4ada9290b933e02a"
+}, {
+  "name" : "lightmap-blue-etc1.ktx",
+  "size" : 699200,
+  "md5" : "ac45e9f7d251d17c70e01e4723821172"
+}, {
+  "name" : "lightmap-blue.webp",
+  "size" : 135136,
+  "md5" : "229d4376e6f8bbb5336e21f0993e926b"
+}, {
+  "name" : "lightmap-etc1.ktx",
+  "size" : 699200,
+  "md5" : "a6ad8d664298130e19ac3d8e21bb519e"
+}, {
+  "name" : "lightmap-red-astc.ktx",
+  "size" : 349704,
+  "md5" : "b37d65f068725583703c57067765aee3"
+}, {
+  "name" : "lightmap-red-etc1.ktx",
+  "size" : 699200,
+  "md5" : "6e4bb4c7f0f7ead2696be0900e9fd3c9"
+}, {
+  "name" : "lightmap-red.webp",
+  "size" : 132018,
+  "md5" : "243d71ff2d4fda0323069b6ea22e55a8"
+}, {
+  "name" : "lightmap.webp",
+  "size" : 135476,
+  "md5" : "411feee84f36d3d45eab1f7751929b4d"
+}, {
+  "name" : "object.a3d",
+  "size" : 148448,
+  "md5" : "84402e4090c1b36a5c83568d2e4ca7ba"
+} ]
