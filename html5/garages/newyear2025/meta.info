@@ -1,0 +1,169 @@
+[ {
+  "name" : "bg1-astc.ktx",
+  "size" : 349704,
+  "md5" : "591af5d41eb3fe151a8026d89b13e9a8"
+}, {
+  "name" : "bg1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "e4e72e6230debccecc85fadef0913432"
+}, {
+  "name" : "bg1.webp",
+  "size" : 92698,
+  "md5" : "bd1e4ea02ca896f773c3808470e723fb"
+}, {
+  "name" : "bl-alpha-etc1.ktx",
+  "size" : 174908,
+  "md5" : "b66eea3c1592f4504da7887d4fd2fdf4"
+}, {
+  "name" : "bl-astc.ktx",
+  "size" : 87556,
+  "md5" : "acba540ee92c39cd2ba1dd121190bc34"
+}, {
+  "name" : "bl-etc1.ktx",
+  "size" : 174908,
+  "md5" : "1826522cdfec872f3f44570f0a42338f"
+}, {
+  "name" : "bl.webp",
+  "size" : 42482,
+  "md5" : "641f1168c048a6b21712ae45f09a41f0"
+}, {
+  "name" : "flr1-astc.ktx",
+  "size" : 1398284,
+  "md5" : "45c4e0a6cf65cf7eb12acbf414116db1"
+}, {
+  "name" : "flr1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "2674dfb9aed1bf7ce3c90839ddaef7b4"
+}, {
+  "name" : "flr1.webp",
+  "size" : 113100,
+  "md5" : "771b79e11935a13dce942b6f23f82393"
+}, {
+  "name" : "gar1-alpha-etc1.ktx",
+  "size" : 2796356,
+  "md5" : "6be04409466edf779c1b0d864d053445"
+}, {
+  "name" : "gar1-astc.ktx",
+  "size" : 5592592,
+  "md5" : "426adb341285ce0114b7d2f99a1a56cb"
+}, {
+  "name" : "gar1-etc1.ktx",
+  "size" : 2796356,
+  "md5" : "7793cc486f342bf13b0e662cba20fc82"
+}, {
+  "name" : "gar1.webp",
+  "size" : 953088,
+  "md5" : "d3732b41e9b9e6f9954d2b9ff4cea0c1"
+}, {
+  "name" : "object.3ds",
+  "size" : 718184,
+  "md5" : "fd71955444ceb64c831cc127481ecce0"
+}, {
+  "name" : "pine-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "6875b0025edd16f2a7dcae52af08ef16"
+}, {
+  "name" : "pine-astc.ktx",
+  "size" : 1398284,
+  "md5" : "3f5dadd10c717cabd9497456c4d81f14"
+}, {
+  "name" : "pine-etc1.ktx",
+  "size" : 699200,
+  "md5" : "01150a53be0a07a72f646046ece07630"
+}, {
+  "name" : "pine.webp",
+  "size" : 1208716,
+  "md5" : "c816cfdc457c5f31caf686288b36a736"
+}, {
+  "name" : "pine_big-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "99b43a1df52fc70de3991cef8538ee87"
+}, {
+  "name" : "pine_big-astc.ktx",
+  "size" : 1398284,
+  "md5" : "1daa0ac73dbd1b989db03c56b75bceea"
+}, {
+  "name" : "pine_big-etc1.ktx",
+  "size" : 699200,
+  "md5" : "ef9d74624b046a53d12a2de701be6b3e"
+}, {
+  "name" : "pine_big.webp",
+  "size" : 931998,
+  "md5" : "b8460bc66a6d3259378c38f208c7d6cc"
+}, {
+  "name" : "pl1-astc.ktx",
+  "size" : 349704,
+  "md5" : "0b9e4434a4914e46dbd470f752ecdbee"
+}, {
+  "name" : "pl1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "ed598d0afe4e08edc00355a2198ffc4c"
+}, {
+  "name" : "pl1.webp",
+  "size" : 197050,
+  "md5" : "6a4916d41a97b89b7fe2baf153ddf035"
+}, {
+  "name" : "pl2-astc.ktx",
+  "size" : 349704,
+  "md5" : "a5678a02e3e625b96e326489ba5a7f99"
+}, {
+  "name" : "pl2-etc1.ktx",
+  "size" : 699200,
+  "md5" : "8579789cb0b3592c79526d76f9421be3"
+}, {
+  "name" : "pl2.webp",
+  "size" : 42690,
+  "md5" : "8eb10f052fae089a2676f13a4e86dd30"
+}, {
+  "name" : "race1-astc.ktx",
+  "size" : 87556,
+  "md5" : "07c22637aa25e9708238643b67d81848"
+}, {
+  "name" : "race1-etc1.ktx",
+  "size" : 174908,
+  "md5" : "8b498eb315c718f5989c8510c937e609"
+}, {
+  "name" : "race1.webp",
+  "size" : 11680,
+  "md5" : "bf36d0a884dbe4cf095165d4599419e1"
+}, {
+  "name" : "sky1-astc.ktx",
+  "size" : 349704,
+  "md5" : "2bb0a66345e0ce1dea8d2d46aad345ac"
+}, {
+  "name" : "sky1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "89bade042f6f2baf6a7b8ef89544ba55"
+}, {
+  "name" : "sky1.webp",
+  "size" : 64624,
+  "md5" : "d31a3b66e975931f5379fcd9659e4fcf"
+}, {
+  "name" : "snow-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "ff6cc78fa5b07260199f3e6e5bbc2159"
+}, {
+  "name" : "snow-astc.ktx",
+  "size" : 349704,
+  "md5" : "5ddee9bfdcb577b62625b05d9ba6f4ec"
+}, {
+  "name" : "snow-etc1.ktx",
+  "size" : 699200,
+  "md5" : "698a47222e35d2c464598bd018b24cb4"
+}, {
+  "name" : "snow.webp",
+  "size" : 13134,
+  "md5" : "f70c197c0f8933cc81203f94bf9c7eda"
+}, {
+  "name" : "wall2-astc.ktx",
+  "size" : 1398284,
+  "md5" : "6ac71511ab570f81b9902d0e91d6a529"
+}, {
+  "name" : "wall2-etc1.ktx",
+  "size" : 699200,
+  "md5" : "c5a03b82d608c7867a23ee5423aa8e57"
+}, {
+  "name" : "wall2.webp",
+  "size" : 160988,
+  "md5" : "bbec8a1a56fe016d7dba05b804e2bf44"
+} ]
