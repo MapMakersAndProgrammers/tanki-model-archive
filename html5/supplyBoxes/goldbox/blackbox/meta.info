@@ -1,0 +1,57 @@
+[ {
+  "name" : "images.xml",
+  "size" : 70,
+  "md5" : "ecfc2bc2bf22c8f87a30d17d60a6482e"
+}, {
+  "name" : "object.3ds",
+  "size" : 15889,
+  "md5" : "a8526013ff1ae278e409f3847cb54062"
+}, {
+  "name" : "texture-astc.ktx",
+  "size" : 22016,
+  "md5" : "77d23a4530b3129dfbb1f3d6bbe6f6b9"
+}, {
+  "name" : "texture-etc1.ktx",
+  "size" : 43832,
+  "md5" : "498a3a33fdd8348011141d01966af726"
+}, {
+  "name" : "texture-etc2.ktx",
+  "size" : 87536,
+  "md5" : "db7846296a8076b8dff3e311c516e02e"
+}, {
+  "name" : "texture-pvrtc1.ktx",
+  "size" : 43904,
+  "md5" : "0d56a5b27f6336d2d05cebebb0fcafcd"
+}, {
+  "name" : "texture-pvrtc2.ktx",
+  "size" : 43832,
+  "md5" : "30aa2b7dc135e66b1ba15d07ebc656ea"
+}, {
+  "name" : "texture.jpg",
+  "size" : 50422,
+  "md5" : "3cf32312813daa77b8521270c623403b"
+}, {
+  "name" : "texture.png-astc.ktx",
+  "size" : 22016,
+  "md5" : "77d23a4530b3129dfbb1f3d6bbe6f6b9"
+}, {
+  "name" : "texture.png-etc1.ktx",
+  "size" : 43832,
+  "md5" : "498a3a33fdd8348011141d01966af726"
+}, {
+  "name" : "texture.png-etc2.ktx",
+  "size" : 87536,
+  "md5" : "db7846296a8076b8dff3e311c516e02e"
+}, {
+  "name" : "texture.png-pvrtc1.ktx",
+  "size" : 43904,
+  "md5" : "0d56a5b27f6336d2d05cebebb0fcafcd"
+}, {
+  "name" : "texture.png-pvrtc2.ktx",
+  "size" : 43832,
+  "md5" : "30aa2b7dc135e66b1ba15d07ebc656ea"
+}, {
+  "name" : "texture.webp",
+  "size" : 15632,
+  "md5" : "cd0e847ba497c68c58461c489ebc6994"
+} ]

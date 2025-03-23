@@ -1,0 +1,21 @@
+[ {
+  "name" : "object.3ds",
+  "size" : 36257,
+  "md5" : "0c66eb57978451983d91f0485c39e9e1"
+}, {
+  "name" : "texture-astc.ktx",
+  "size" : 22016,
+  "md5" : "9f01d97e98528f07a4a30d4f02a0e67b"
+}, {
+  "name" : "texture-dxt.ktx",
+  "size" : 43832,
+  "md5" : "f74bf42d0d8e1eda4155c05d85cd4094"
+}, {
+  "name" : "texture-etc1.ktx",
+  "size" : 43832,
+  "md5" : "d7de9b1f0aa7c38a79fb9d0398499bfc"
+}, {
+  "name" : "texture.webp",
+  "size" : 15618,
+  "md5" : "5c3d276e604281f61cfa1e6bf4eb614b"
+} ]
