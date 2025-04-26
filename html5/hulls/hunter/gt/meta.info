@@ -1,33 +1,37 @@
 [ {
   "name" : "lightmap-alpha-etc1.ktx",
   "size" : 699200,
-  "md5" : "ec348d48d54b3d108c12659adb2ad9d1"
+  "md5" : "4e05069751a8346087029982fcab90e8"
 }, {
   "name" : "lightmap-astc.ktx",
   "size" : 349704,
-  "md5" : "976f5ec1d9a0f000a3e35c60c3a91891"
+  "md5" : "d1c0c7dc52e9705dad063b592ad5f57b"
 }, {
   "name" : "lightmap-etc1.ktx",
   "size" : 699200,
-  "md5" : "a64b8236b4c59638a9491aabb1517742"
+  "md5" : "1ce2094ad3caf1e9e1e335a45ff33f03"
 }, {
   "name" : "lightmap.webp",
-  "size" : 215402,
-  "md5" : "109690133b6a1d487fbf9d0a34a62999"
+  "size" : 111380,
+  "md5" : "94dcfe72b856a0de8749f105b52ea7fa"
 }, {
   "name" : "object.a3d",
-  "size" : 243624,
-  "md5" : "024efce8e1dd692940051bb9d0674cbe"
+  "size" : 360836,
+  "md5" : "9a77f607ae2d4d97867fda80dd4693c2"
 }, {
-  "name" : "tracks-astc.ktx",
-  "size" : 22016,
-  "md5" : "37437df4237adfdb30f1939b6c326ff7"
+  "name" : "wheels-alpha-etc1.ktx",
+  "size" : 174908,
+  "md5" : "aab7b0b89fe41a59ba6daed1575a3fc1"
 }, {
-  "name" : "tracks-etc1.ktx",
-  "size" : 43832,
-  "md5" : "15921444cc11494dcfbeb9f1b2c7eb90"
+  "name" : "wheels-astc.ktx",
+  "size" : 87556,
+  "md5" : "fecf36a8328e789f9e610790c2d61cab"
 }, {
-  "name" : "tracks.webp",
-  "size" : 24242,
-  "md5" : "c27020eff5f9d035340949f92855b00d"
+  "name" : "wheels-etc1.ktx",
+  "size" : 174908,
+  "md5" : "cf8c64020fb6baa859d4cdb5352b8cdf"
+}, {
+  "name" : "wheels.webp",
+  "size" : 41782,
+  "md5" : "48a70ca34dfe36062d8017439b0d93ab"
 } ]
