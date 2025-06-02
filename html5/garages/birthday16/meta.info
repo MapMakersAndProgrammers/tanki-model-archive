@@ -1,0 +1,133 @@
+[ {
+  "name" : "balls-astc.ktx",
+  "size" : 349704,
+  "md5" : "6807c8733483c53c6c18939e37e9b735"
+}, {
+  "name" : "balls-etc1.ktx",
+  "size" : 699200,
+  "md5" : "6ea8436a9f60adde671c4843e5a32e84"
+}, {
+  "name" : "balls.webp",
+  "size" : 108088,
+  "md5" : "721f78ad6ff9beb5b6a6c627769755c7"
+}, {
+  "name" : "bg1-alpha-etc1.ktx",
+  "size" : 699200,
+  "md5" : "315ce57dc7216520c6667ee5a77eddc9"
+}, {
+  "name" : "bg1-astc.ktx",
+  "size" : 349704,
+  "md5" : "5cc611b87c1598ba1610a8f72a4322ef"
+}, {
+  "name" : "bg1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "d76491a2d1849557595282e811943d0a"
+}, {
+  "name" : "bg1.webp",
+  "size" : 348426,
+  "md5" : "17c72c1fa620b51d31f11312563e4a9e"
+}, {
+  "name" : "bl-alpha-etc1.ktx",
+  "size" : 174908,
+  "md5" : "81110524684531c90b9b5a351317d64d"
+}, {
+  "name" : "bl-astc.ktx",
+  "size" : 87556,
+  "md5" : "58eeafda607c59c67331a7c687c16a51"
+}, {
+  "name" : "bl-etc1.ktx",
+  "size" : 174908,
+  "md5" : "5dd527dfbde61293d249e5cba4b5cf43"
+}, {
+  "name" : "bl.webp",
+  "size" : 55696,
+  "md5" : "d8a383db53e5f55e4dfce7c1d8f53dc8"
+}, {
+  "name" : "cake-astc.ktx",
+  "size" : 349704,
+  "md5" : "3ae582f31489c2616db10207d6dd0fbd"
+}, {
+  "name" : "cake-etc1.ktx",
+  "size" : 699200,
+  "md5" : "450ad4dca110bc72d8c3e19d70ef5206"
+}, {
+  "name" : "cake.webp",
+  "size" : 286488,
+  "md5" : "e148d2f528fc7bb671ff8b3c9a91a7c6"
+}, {
+  "name" : "flr1-astc.ktx",
+  "size" : 5592592,
+  "md5" : "b38e7012848c7fd267571b5e27cc8ecc"
+}, {
+  "name" : "flr1-etc1.ktx",
+  "size" : 2796356,
+  "md5" : "87a171cadf80f6de7890f700d458235e"
+}, {
+  "name" : "flr1.webp",
+  "size" : 129646,
+  "md5" : "339a729cf928f64f3ed9c72615b07d59"
+}, {
+  "name" : "gar1-astc.ktx",
+  "size" : 5592592,
+  "md5" : "76ba50c981c3f3ad3d044a607bb08d7b"
+}, {
+  "name" : "gar1-etc1.ktx",
+  "size" : 2796356,
+  "md5" : "f8663e0f77b9d6f8a2630fb306c21fd6"
+}, {
+  "name" : "gar1.webp",
+  "size" : 793218,
+  "md5" : "fce55db2c229f55fc0f2db50dd93a0dc"
+}, {
+  "name" : "object.3ds",
+  "size" : 708771,
+  "md5" : "29daad835d23462505cb4ee36391a9e2"
+}, {
+  "name" : "pl1-astc.ktx",
+  "size" : 349704,
+  "md5" : "df055184be019604602b693971dbb4aa"
+}, {
+  "name" : "pl1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "9b7529cd66d4ebf5bcc819547fcf5dec"
+}, {
+  "name" : "pl1.webp",
+  "size" : 128666,
+  "md5" : "95d8f8f8124aafa8fc84ee894af42b53"
+}, {
+  "name" : "pl2-astc.ktx",
+  "size" : 349704,
+  "md5" : "a2ac78f60e90161f7a43f60cbc3cbc70"
+}, {
+  "name" : "pl2-etc1.ktx",
+  "size" : 699200,
+  "md5" : "e6e60731b098bda48cbcf9378bc29cc7"
+}, {
+  "name" : "pl2.webp",
+  "size" : 86310,
+  "md5" : "1bfa1d39b38b09aa29b3e6cf6745864f"
+}, {
+  "name" : "race1-astc.ktx",
+  "size" : 87556,
+  "md5" : "2914cdee99a114238b6729b33f934bdf"
+}, {
+  "name" : "race1-etc1.ktx",
+  "size" : 174908,
+  "md5" : "6d9bf88ee32ecbf4e21236bd9451d3d1"
+}, {
+  "name" : "race1.webp",
+  "size" : 2732,
+  "md5" : "6dc59b1ec8caedb1555f555810c97de9"
+}, {
+  "name" : "sky1-astc.ktx",
+  "size" : 349704,
+  "md5" : "07d6623f0958f43dcca4503ee7edb17f"
+}, {
+  "name" : "sky1-etc1.ktx",
+  "size" : 699200,
+  "md5" : "5062a5a689a738710dafa572b47c4ba6"
+}, {
+  "name" : "sky1.webp",
+  "size" : 207572,
+  "md5" : "737b13eeffcee4c5c518e39f2bd98c66"
+} ]
